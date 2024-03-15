@@ -1,0 +1,155 @@
+
+Effective Date: February 1, 2024 
+
+Membrane AI LLC, also referred to as "us", "we", or "our", is the operator of the Itus AI 
+
+Platform, herein referred to as the "Service". This document outlines our practices regarding the 
+
+gathering, utilization, and disclosure of personal information when you use our Service, along 
+
+with your associated rights. 
+
+Our commitment includes using your data to enhance the Service. Your use of the Service 
+
+signifies your acceptance of our data practices as described in this policy. Terms not defined here 
+
+have their meanings outlined in our Terms and Conditions. 
+
+Collection and Usage of Information 
+
+We gather various types of information to enhance and deliver our Service effectively. 
+
+Personal Data Collection 
+
+In the course of using our Service, we may request personal information that can identify 
+
+or contact you. This includes, but is not limited to, Cookies and Usage Data. 
+
+Usage Data Collection 
+
+We automatically collect certain data when you access our Service via a mobile device. 
+
+This data includes your mobile device type, unique device ID, mobile device IP address, 
+
+mobile operating system, type of mobile browser, unique device identifiers, and other 
+
+diagnostic data. 
+
+Tracking & Cookies Data 
+
+We employ cookies and similar tracking technologies for monitoring Service activity and 
+
+storing certain information. Cookies are small data files which may include an 
+
+anonymous identifier, sent to your browser and stored on your device. Other technologies 
+
+like beacons, tags, and scripts are also used. You can set your browser to refuse cookies 
+
+or indicate when they are being sent. However, refusing cookies may affect your usage of 
+
+certain Service parts. 
+
+Types of Cookies Used: 
+
+â¢ Session Cookies: For operating our Service. 
+
+â¢ Preference Cookies: For remembering your settings and preferences. 
+
+â¢ Security Cookies: For security measures. 
+
+Data Utilization 
+
+We use the collected data for various purposes: 
+
+
+
+â¢ To maintain and provide the Service. 
+
+â¢ To inform you of Service changes. 
+
+â¢ To enable participation in interactive features when you opt to. 
+
+â¢ For customer support. 
+
+â¢ For analysis to improve the Service. 
+
+â¢ To monitor Service usage. 
+
+â¢ To detect, prevent, and address technical issues. 
+
+Data Transfer 
+
+Your information, including Personal Data, may be transferred to â and maintained on 
+
+â computers outside your jurisdiction where data protection laws may differ from your 
+
+area. By submitting your information, you agree to this transfer. We will protect your 
+
+data in line with this Privacy Policy, ensuring secure transfer and processing. 
+
+Data Disclosure for Legal Reasons 
+
+We may disclose your Personal Data if it's necessary: 
+
+â¢ To comply with legal obligations. 
+
+â¢ To protect and defend Itus AI's rights or property. 
+
+â¢ To prevent wrongdoing in connection with the Service. 
+
+â¢ To ensure user and public safety. 
+
+â¢ To guard against legal liability. 
+
+Data Security 
+
+We prioritize the security of your data. However, no internet transmission or electronic 
+
+storage method is entirely secure. We strive to use commercially acceptable means to 
+
+protect your Personal Data but cannot guarantee its absolute security. 
+
+Service Providers 
+
+Third-party companies and individuals may be employed to facilitate our Service, 
+
+provide the Service on our behalf, perform Service-related services, or assist in analyzing 
+
+how our Service is used. These third parties have access to your Personal Data solely to 
+
+perform these tasks and are obligated not to disclose or use it for other purposes. 
+
+Subprocessors List 
+
+Itus AI, as a data processor, engages subprocessors for personal data processing submitted to our 
+
+services. These include: 
+
+â¢ Google, L.L.C. - Provides hosting, storage, and large language model processing. 
+
+â¢ Cloudflare, Inc. - Offers TLS protection. 
+
+â¢ OpenAI, L.L.C. - Large language model processing. 
+
+
+
+This list may be updated periodically. 
+
+Analytics and Links to Other Sites 
+
+Our Service may contain links to third-party sites not operated by us. We advise reviewing their 
+
+Privacy Policies as we do not control their content or privacy practices. 
+
+Privacy Policy Updates 
+
+We may revise this Privacy Policy occasionally. Any changes will be posted on this page. We 
+
+advise reviewing this policy periodically for updates. Changes become effective upon posting. 
+
+Contact Us 
+
+For questions about this Privacy Policy, please contact us at support@itus.ai. 
+
+mailto:support@itus.ai
+
