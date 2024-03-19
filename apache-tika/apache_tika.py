@@ -3,7 +3,7 @@ import requests
 # URL of your Tika server
 TIKA_URL = 'http://localhost:9998/tika'
 # Path to your PDF file
-pdf_file_path = 'privacy_policy_v2.pdf'
+pdf_file_path = '../documents/privacy_policy_v2.pdf'
 
 headers = {
     'Accept': 'text/plain',
